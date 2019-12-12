@@ -1,0 +1,3 @@
+[submodule "ext/slamtools"]
+	path = ext/slamtools
+	url = https://github.com/itsuhane/slamtools.git
