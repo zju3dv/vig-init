@@ -1,6 +1,5 @@
 /**************************************************************************
-* This file is part of vig-init.
-* Author: Jinyu Li <mail@jinyu.li>
+* VIG-Init
 *
 * Copyright SenseTime. All Rights Reserved.
 *

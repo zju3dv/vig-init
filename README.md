@@ -36,7 +36,7 @@ If you used our work, please kindly cite the following paper.
 
 ## Acknowledgement
 
-Acknowledgement: This work is affliated with ZJU-SenseTime Joint Lab of 3D Vision, and its intellectual property belongs to SenseTime Group Ltd.
+This work is affliated with ZJU-SenseTime Joint Lab of 3D Vision, and its intellectual property belongs to SenseTime Group Ltd.
 
 ```
 Copyright SenseTime. All Rights Reserved.
